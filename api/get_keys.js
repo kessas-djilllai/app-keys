@@ -21,8 +21,8 @@ export default function handler(req, res) {
 
   // إرسال البيانات إلى التطبيق
   return res.status(200).json({
-    "supabase_url": "https://qwtkuzuuskevtptetnvb.supabase.co",
-    "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF3dGt1enV1c2tldnRwdGV0bnZiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk3MDU2NzUsImV4cCI6MjA5NTI4MTY3NX0.FtkcRTFxSIMgZEY0FoJ4nOwAYc0O84zeAT7vji-FHFs",
+    "supabase_url": "https://tbpvuazpxysfjfucjcso.supabase.co",
+    "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRicHZ1YXpweHlzZmpmdWNqY3NvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODA5NDQzNjEsImV4cCI6MjA5NjUyMDM2MX0.0vANnNj_lJdM5zhk7_UgFWlEDY2od7A7HabBPy-uUrQ",
     "telegram_bot_token": "8466678604:AAFJDmXV5BDRwY8jpBApTANDi5o59rJpUEE",
     "telegram_chat_id": "5377013247",
     "cloudinary_cloud_name": "dtg0zml4l",
